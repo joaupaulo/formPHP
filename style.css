@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2? family = Noto + Sans + JP: wght @ 700 & display = swap');
+
+body{
+    display: flex;
+    align-items:center;
+    height: 100vh;
+    color: #444452;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.conjuntof{
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario{
+    margin: 0 auto;
+    width: 448px;
+    height: 525px;
+    
+}
+
+input{
+    margin-top: 20px;
+    padding: 20px 20px;
+}
+
+textarea{
+    margin-top: 20px;
+    height:250px;
+    width: 550px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 30px;
+  
+}
